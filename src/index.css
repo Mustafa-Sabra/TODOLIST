@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(110, 110, 236);
+}
+.main {
+  width: 50%;
+  margin: 15% auto;
+}
+h2 {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 40px;
+  color: #fff;
+}
